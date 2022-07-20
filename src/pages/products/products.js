@@ -1,4 +1,10 @@
+
 const Products = () => {
-  return <div>Products goes here</div>;
+  return (
+    <>
+    
+    </>
+  
+  );
 };
 export { Products };

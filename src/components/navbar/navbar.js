@@ -20,7 +20,7 @@ const Navbar = ({ onSearch, cartItemCount }) => {
             </Link>
           </div>
           <div class="flex items-center space-x-4">
-            <form class="hidden mb-0 lg:flex">
+            <form class="flex-col mb-0 lg:flex">
               <div class="relative">
                 <input
                   class="h-10 pr-10 text-sm placeholder-gray-300 border-gray-200 rounded-lg focus:z-10"
